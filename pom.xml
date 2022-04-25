@@ -11,5 +11,10 @@
 
     <modules>
         <module>gulimall-product</module>
+        <module>renren-fast-master</module>
+        <module>renren-generator-master</module>
+        <module>gulimall-common</module>
+        <module>gulimall-coupon</module>
+        <module>gulimall-member</module>
     </modules>
 </project>
